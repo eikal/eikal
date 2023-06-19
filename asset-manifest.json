@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/eikal/static/css/main.073c9b0a.css",
-    "main.js": "/eikal/static/js/main.df38f1a8.js",
+    "main.js": "/eikal/static/js/main.bacc9e4e.js",
     "static/js/787.dfc00d6c.chunk.js": "/eikal/static/js/787.dfc00d6c.chunk.js",
     "static/media/logo.svg": "/eikal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/eikal/index.html",
     "main.073c9b0a.css.map": "/eikal/static/css/main.073c9b0a.css.map",
-    "main.df38f1a8.js.map": "/eikal/static/js/main.df38f1a8.js.map",
+    "main.bacc9e4e.js.map": "/eikal/static/js/main.bacc9e4e.js.map",
     "787.dfc00d6c.chunk.js.map": "/eikal/static/js/787.dfc00d6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.df38f1a8.js"
+    "static/js/main.bacc9e4e.js"
   ]
 }
